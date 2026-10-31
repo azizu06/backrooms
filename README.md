@@ -4,6 +4,8 @@
 
 <h1 align="center">Backrooms</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/Cal_Hacks_13.0-Hyphenate_Track_Prize_of_652_Projects-F97316?style=for-the-badge" alt="Cal Hacks 13.0: Hyphenate track prize out of 652 projects"></p>
+
 <p align="center">
   <strong>Your back office, with every decision in view.</strong><br>
   AI agents handle finance work for a small business. A human approves anything outside their limits.
