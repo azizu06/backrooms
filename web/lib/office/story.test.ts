@@ -78,5 +78,6 @@ describe('judge story timing', () => {
           `${from.position} → ${to.position} at ${step / 200}: ${pose.position}`).toBe(false);
       }
     }
-  });
+    // Exhaustive collision sweep: ~1s locally, but slower than the 5s default on shared CI runners.
+  }, 30_000);
 });
